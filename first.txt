@@ -2,3 +2,4 @@ gitの練習をしていきます。
 基本的なワークフローを学びます。
 コマンド　git add
 コマンド　git commit
+コマンド git rm
