@@ -3,3 +3,4 @@ gitの練習をしていきます。
 コマンド　git add
 コマンド　git commit
 コマンド git rm
+git status
