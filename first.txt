@@ -4,3 +4,4 @@ gitの練習をしていきます。
 コマンド　git commit
 コマンド git rm
 git status
+git diff
